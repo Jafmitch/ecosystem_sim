@@ -1,0 +1,16 @@
+- name: Grass
+  count: 8000
+  birthrate: 1
+  birthrate_unit: day
+  days_as_adult: 5
+  morsel_intake: 0
+  morsel_value: 0.01
+  diet: []
+- name: Goat
+  count: 2
+  birthrate: 2
+  birthrate_unit: year
+  days_as_adult: 4000
+  morsel_intake: 10
+  morsel_value: 10
+  diet: [0]
